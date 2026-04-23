@@ -1,0 +1,9 @@
+{
+	"id": "block-data-uri",
+	"name": "Block Data URI",
+	"version": "0.1.3-beta",
+	"minAppVersion": "0.15.0",
+	"description": "Strips data URI image links from pasted text",
+	"author": "Quietbyday",
+	"isDesktopOnly": false
+}
